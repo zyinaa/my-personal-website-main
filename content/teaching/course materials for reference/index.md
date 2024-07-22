@@ -34,4 +34,4 @@ weight: 20
 
 [backtesting engine](https://github.com/zyinaa/backtestingengine)
 
-tutorial notes:
+[Guideline note](https://drive.google.com/file/d/1E_aBKkL81T1Vm5JyRL-BLXygWU1nOjPW/view?usp=sharing)
