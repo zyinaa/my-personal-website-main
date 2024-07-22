@@ -33,3 +33,5 @@ weight: 20
 #### Quantitative trading strategies, built on an algo structure (Reference to ISOM4520)
 
 [backtesting engine](https://github.com/zyinaa/backtestingengine)
+
+tutorial notes:
