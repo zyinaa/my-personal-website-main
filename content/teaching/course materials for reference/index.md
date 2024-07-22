@@ -31,3 +31,5 @@ weight: 20
 [Tutorial 7](https://colab.research.google.com/drive/1R3LwfWiyQCvKsV_YyWwo9S0WWoSvmwnz?usp=sharing) Regression analysis with machine learning
 
 #### Quantitative trading strategies, built on an algo structure (Reference to ISOM4520)
+
+[backtesting engine](https://github.com/zyinaa/backtestingengine)
