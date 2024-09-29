@@ -31,9 +31,9 @@ main:
     url: uploads/resume.pdf
     weight: 60
 
-#  - name: Post
-#    url: post/
-#    weight: 80
+  - name: Post
+    url: post/
+    weight: 80
     
   - name: Contact
     url: '#contact'

@@ -1,9 +1,17 @@
 ---
-title: "Hello R"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+authors:
+- admin
+categories: []
+date: "2019-02-05T00:00:00Z"
+image:
+  caption: ""
+  focal_point: ""
+lastMod: "2024-08-05T00:00:00Z"
+projects: []
+subtitle: My first post
+summary: My first post
+tags: []
+title: My first post
 ---
 
 # R Markdown
