@@ -9,7 +9,7 @@ email: ""
 first_name: Enoch
 highlight_name: true
 interests:
-- Statistics
+- High dimensional statistics
 - Machine learning 
 - Financial mathematics
 - Macroeconomics
