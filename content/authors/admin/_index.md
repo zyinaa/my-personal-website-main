@@ -9,7 +9,7 @@ email: ""
 first_name: Enoch
 highlight_name: true
 interests:
-- Operational research & statistics
+- Statistics
 - Machine learning 
 - Financial mathematics
 - Macroeconomics
