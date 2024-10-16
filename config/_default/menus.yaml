@@ -23,9 +23,9 @@ main:
  
 
  
-  - name: Literature Review
-    url: literature/
-    weight: 50
+ # - name: Literature Review
+#  url: literature/
+ #   weight: 50
     
   - name: CV
     url: uploads/resume.pdf
