@@ -5,6 +5,9 @@ education:
   - course: BSc in Mathematics
     institution: The Hong Kong University of Science and Technology
     year: 2021
+  - course: MSc in Statistics
+    institution: The George Washington University
+    year: 2027
 email: ""
 first_name: Enoch
 highlight_name: true
