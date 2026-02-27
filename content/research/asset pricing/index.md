@@ -17,4 +17,4 @@ title: Empirical asset pricing in forex market via machine learning
 tags: ["Research", "asset pricing", "machine learning", "statistics", "economics",'finance']
 ---
 
-A research project that I'm currently working on, started in August 2024.
+A research project that I'm currently working on, started in August 2024. Literature review on topic of iPCA method (instrumental PCA). Introducing new methodologies in pricing forex.

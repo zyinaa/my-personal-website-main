@@ -16,7 +16,6 @@ sections:
       city: Washington D. C.
       country: United States of America
       country_code: US
-      zip_code: 20052
       region: US
       street: The George Washington University
     appointment_url: https://calendly.com
