@@ -9666,3 +9666,8 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+#about .article-style {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
