@@ -63,7 +63,7 @@ status:
 
 superuser: true
 
-title: Enoch YIN 尹震東
+title: Enoch YIN
 ---
 
 Hi, welcome to my homepage.
